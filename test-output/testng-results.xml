@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36" started-at="2018-08-25T15:36:55Z" finished-at="2018-08-25T15:36:56Z">
+    <groups>
+      <group name="logout">
+        <method signature="TestNg.enterGoogleTiltle1()[pri:2, instance:Package1.TestNg@7e2d773b]" name="enterGoogleTiltle1" class="Package1.TestNg"/>
+      </group> <!-- logout -->
+      <group name="login">
+        <method signature="TestNg.enterGoogleTiltle()[pri:1, instance:Package1.TestNg@7e2d773b]" name="enterGoogleTiltle" class="Package1.TestNg"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Default test" duration-ms="36" started-at="2018-08-25T15:36:55Z" finished-at="2018-08-25T15:36:56Z">
+      <class name="Package1.TestNg">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Package1.TestNg@7e2d773b]" name="launchBrowser" is-config="true" duration-ms="8" started-at="2018-08-25T15:36:55Z" finished-at="2018-08-25T15:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterGoogleTiltle()[pri:1, instance:Package1.TestNg@7e2d773b]" name="enterGoogleTiltle" duration-ms="5" started-at="2018-08-25T15:36:55Z" finished-at="2018-08-25T15:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterGoogleTiltle -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:Package1.TestNg@7e2d773b]" name="enterUrl" is-config="true" duration-ms="0" started-at="2018-08-25T15:36:55Z" finished-at="2018-08-25T15:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:Package1.TestNg@7e2d773b]" name="Close" is-config="true" duration-ms="1" started-at="2018-08-25T15:36:56Z" finished-at="2018-08-25T15:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:Package1.TestNg@7e2d773b]" name="enterUrl" is-config="true" duration-ms="0" started-at="2018-08-25T15:36:56Z" finished-at="2018-08-25T15:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="enterGoogleTiltle1()[pri:2, instance:Package1.TestNg@7e2d773b]" name="enterGoogleTiltle1" duration-ms="2" started-at="2018-08-25T15:36:56Z" finished-at="2018-08-25T15:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterGoogleTiltle1 -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:Package1.TestNg@7e2d773b]" name="Close" is-config="true" duration-ms="1" started-at="2018-08-25T15:36:56Z" finished-at="2018-08-25T15:36:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- Package1.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
